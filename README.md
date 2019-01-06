@@ -1,7 +1,7 @@
 # Vanilla React App
 A vanilla app in ReactJS with webpack, react router, babel and sass support.
 
-The goal of this is to have a simply but undestandable skeleton of a ReactJS project. To create apps without using create-react-app package and it's infinite dependencies, just clone and start developing your application.
+The goal of this is to have a simply but understandable skeleton of a ReactJS project. To create apps without using create-react-app package and it's infinite dependencies, just clone and start developing your application.
 
 How to use:
 ----------
