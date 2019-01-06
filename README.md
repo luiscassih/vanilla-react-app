@@ -7,6 +7,8 @@ How to use:
 ----------
 **npm install**
 
-**npm run build** - exports to build/ folder
+**npm run watch** - build to build/ folder and watch for future changes
 
-**npm run start** - build and serve a http server and watch for any changes
+**npm run start** - serve a express http server
+
+**npm run build** - for production build
