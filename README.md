@@ -1,7 +1,7 @@
 # Vanilla React App
-A vanilla app in ReactJS with webpack, babel and sass support.
+A vanilla app in ReactJS with webpack, react router, babel and sass support.
 
-To create apps without using create-react-app package.
+The goal of this is to have a simply but undestandable skeleton of a ReactJS project. To create apps without using create-react-app package and it's infinite dependencies, just clone and start developing your application.
 
 How to use:
 ----------
@@ -9,6 +9,6 @@ How to use:
 
 **npm run watch** - build to build/ folder and watch for future changes
 
-**npm run start** - serve a express http server
+**npm start** - serve a express http server
 
 **npm run build** - for production build
